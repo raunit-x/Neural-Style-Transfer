@@ -5,6 +5,6 @@
 <img src='Screenshot 2020-09-15 at 1.24.31 AM.png' width=800>
 
 <h4>Some of my experiments </h4>
-
+<img src='ny_landscape.png' width=800>
 <img src='group_scream.png' width=800>
 <img src='selfie_scream.png' width=800>
