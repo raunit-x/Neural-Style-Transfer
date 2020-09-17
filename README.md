@@ -6,5 +6,4 @@
 
 <h4>Some of my experiments </h4>
 <img src='ny_landscape.png' width=800>
-<img src='group_scream.png' width=800>
 <img src='selfie_scream.png' width=800>
